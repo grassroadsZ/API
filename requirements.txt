@@ -1,0 +1,12 @@
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.3
+et-xmlfile==1.0.1
+idna==2.9
+jdcal==1.4.1
+jsonpath==0.82
+loguru==0.5.1
+openpyxl==3.0.3
+requests==2.24.0
+urllib3==1.25.9
+win32-setctime==1.0.1
